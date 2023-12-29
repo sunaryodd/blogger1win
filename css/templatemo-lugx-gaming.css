@@ -651,7 +651,7 @@ Banner Style
 */
 
 .main-banner {
-  background-image: url(../images/banner-bg.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/sunaryodd/blogger1win@main/images/logo.png);
   border-radius: 0px 0px 150px 150px;
   background-position: center bottom;
   background-repeat: no-repeat;
@@ -1116,7 +1116,7 @@ footer {
   background-color: #0071f8;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(../images/footer-bg.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/sunaryodd/blogger1win@main/images/footer-bg.jpg);
   min-height: 90px;
   border-radius: 90px 90px 0px 0px;
 }
@@ -1146,7 +1146,7 @@ footer p a:hover {
     background-color: #0071f8;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(../images/footer-bg.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/sunaryodd/blogger1win@main/images/footer-bg.jpg);
     min-height: 20px;
     border-radius: 40px 40px 0px 0px;
   }
@@ -1167,7 +1167,7 @@ Page Header Style
 */
 
 .page-heading {
-  background-image: url(../images/page-heading-bg.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/sunaryodd/blogger1win@main/images/page-heading-bg.jpg);
   border-radius: 0px 0px 150px 150px;
   background-position: center bottom;
   background-repeat: no-repeat;
